@@ -5,4 +5,3 @@ print(sum)
 difference = number_1 - number_2
 print(difference)
 product = number_1 * number_2
-print(product)
