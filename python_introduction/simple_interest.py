@@ -1,5 +1,6 @@
-P = principal_amount = 1000
-R = annual_interest_rate = 0.05
-T = time_in_years = 3
-I = interest_earned = P * R * T
+P = principal = 1000
+R = rate = 0.05
+T = time = 3
+I = interest= P * R * T
+interest = principal*rate*time
 print("The simple interest is:", I)
