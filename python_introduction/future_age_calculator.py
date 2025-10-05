@@ -1,4 +1,4 @@
-Enter_current_age=Current_age=30
+Current_age=int(input("Enter current age: "))
 Year_born=2023-Current_age
 Future_year=2050
 Future_age=Future_year-Year_born
