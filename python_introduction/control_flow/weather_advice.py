@@ -6,6 +6,6 @@ elif prompt=="rainy":
 elif prompt=="cold":
     print("Make sure to wear a warm coat and a scarf.")
 else:
-    print("Sorry, i dont have recommendations for the weather.")
+    print("Sorry, i don't have recommendations for the weather.")
           
     
